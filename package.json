@@ -1,0 +1,19 @@
+{
+  "name": "react-store",
+  "version": "1.0.0",
+  "main": "index.jsx",
+  "license": "MIT",
+  "dependencies": {
+    "bootstrap": "^4.5.0",
+    "jquery": "^3.5.1",
+    "popper.js": "^1.16.1",
+    "react": "^16.13.1",
+    "react-bootstrap": "^1.0.1",
+    "react-dom": "^16.13.1"
+  },
+  "devDependencies": {
+    "@fortawesome/fontawesome-free": "^5.13.1",
+    "node-sass": "^4.14.1",
+    "parcel-bundler": "^1.12.4"
+  }
+}

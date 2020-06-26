@@ -1,0 +1,211 @@
+{
+    "items": [
+        {
+            "id": 1,
+            "title": "Product A",
+            "category": "Category A",
+            "price": 86,
+            "image": "img/products/thumb.svg"
+        },
+
+        {
+            "id": 2,
+            "title": "Product B",
+            "category": "Category A",
+            "price": 65,
+            "image": "img/products/thumb.svg"
+        },
+
+        {
+            "id": 3,
+            "title": "Product C",
+            "category": "Category A",
+            "price": 58,
+            "image": "img/products/thumb.svg"
+        },
+
+        {
+            "id": 4,
+            "title": "Product D",
+            "category": "Category A",
+            "price": 546,
+            "image": "img/products/thumb.svg"
+        },
+
+        {
+            "id": 5,
+            "title": "Product E",
+            "category": "Category B",
+            "price": 888,
+            "image": "img/products/thumb.svg"
+        },
+
+        {
+            "id": 6,
+            "title": "Product F",
+            "category": "Category B",
+            "price": 48,
+            "image": "img/products/thumb.svg"
+        },
+
+        {
+            "id": 7,
+            "title": "Product G",
+            "category": "Category B",
+            "price": 35,
+            "image": "img/products/thumb.svg"
+        },
+
+        {
+            "id": 8,
+            "title": "Product H",
+            "category": "Category B",
+            "price": 494,
+            "image": "img/products/thumb.svg"
+        },
+
+        {
+            "id": 9,
+            "title": "Product I",
+            "category": "Category C",
+            "price": 334,
+            "image": "img/products/thumb.svg"
+        },
+
+        {
+            "id": 10,
+            "title": "Product J",
+            "category": "Category C",
+            "price": 454,
+            "image": "img/products/thumb.svg"
+        },
+
+        {
+            "id": 11,
+            "title": "Product K",
+            "category": "Category C",
+            "price": 654,
+            "image": "img/products/thumb.svg"
+        },
+
+        {
+            "id": 12,
+            "title": "Product L",
+            "category": "Category C",
+            "price": 5,
+            "image": "img/products/thumb.svg"
+        },
+
+        {
+            "id": 13,
+            "title": "Product M",
+            "category": "Category D",
+            "price": 48,
+            "image": "img/products/thumb.svg"
+        },
+
+        {
+            "id": 14,
+            "title": "Product N",
+            "category": "Category D",
+            "price": 454,
+            "image": "img/products/thumb.svg"
+        },
+
+        {
+            "id": 15,
+            "title": "Product O",
+            "category": "Category D",
+            "price": 994,
+            "image": "img/products/thumb.svg"
+        },
+
+        {
+            "id": 16,
+            "title": "Product P",
+            "category": "Category D",
+            "price": 454,
+            "image": "img/products/thumb.svg"
+        },
+
+        {
+            "id": 17,
+            "title": "Product Q",
+            "category": "Category A",
+            "price": 54,
+            "image": "img/products/thumb.svg"
+        },
+
+        {
+            "id": 18,
+            "title": "Product R",
+            "category": "Category A",
+            "price": 456,
+            "image": "img/products/thumb.svg"
+        },
+
+        {
+            "id": 19,
+            "title": "Product S",
+            "category": "Category A",
+            "price": 88,
+            "image": "img/products/thumb.svg"
+        },
+
+        {
+            "id": 20,
+            "title": "Product T",
+            "category": "Category A",
+            "price": 78,
+            "image": "img/products/thumb.svg"
+        },
+
+        {
+            "id": 21,
+            "title": "Product U",
+            "category": "Category B",
+            "price": 65,
+            "image": "img/products/thumb.svg"
+        },
+
+        {
+            "id": 22,
+            "title": "Product V",
+            "category": "Category B",
+            "price": 576,
+            "image": "img/products/thumb.svg"
+        },
+
+        {
+            "id": 23,
+            "title": "Product W",
+            "category": "Category B",
+            "price": 55,
+            "image": "img/products/thumb.svg"
+        },
+
+        {
+            "id": 24,
+            "title": "Product X",
+            "category": "Category B",
+            "price": 546,
+            "image": "img/products/thumb.svg"
+        },
+
+        {
+            "id": 25,
+            "title": "Product Y",
+            "category": "Category B",
+            "price": 152,
+            "image": "img/products/thumb.svg"
+        },
+
+        {
+            "id": 26,
+            "title": "Product Z",
+            "category": "Category C",
+            "price": 152,
+            "image": "img/products/thumb.svg"
+        }
+    ]
+}
